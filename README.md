@@ -1,6 +1,15 @@
-### Hi there 👋
+📋 Building
 
-```mermaid
-flowchart LR
-hello --> world!
-```
+- [tesourofieis](https://tesourofieis.com) Traditional Catholic prayers and liturgical texts
+- [schola](https://schola.tesourofieis.com) AI driven learning
+- [tesourofieis-latex](https://github.com/ofrades/tesourofieis-latex) Unpliblished book 
+- [divinum-officium](https://github.com/ofrades/divinum-officium) Portuguese translations
+- [openissue](https://github.com/ofrades/openissue) TODO/TASK management TUI
+- [ghsync](https://github.com/ofrades/ghsync) Stow alternative to manage files
+
+📁 Archived
+- [offic](https://github.com/ofrades/offic) My first project, GitHub-authenticated viewer and editor for text files in repositories
+- [bootra](https://github.com/ofrades/bootra) Store of customisable books
+- [movies](https://github.com/ofrades/movies) Tinder like movie app
+- [weather](https://github.com/ofrades/weather) Weather app
+- [gentle](https://github.com/ofrades/gentle) Search tweets from users
