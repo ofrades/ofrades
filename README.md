@@ -4,7 +4,7 @@
 - [schola](https://schola.tesourofieis.com) AI driven learning
 - [tesourofieis-latex](https://github.com/ofrades/tesourofieis-latex) Unpliblished book 
 - [divinum-officium](https://github.com/ofrades/divinum-officium) Portuguese translations
-- [openissue](https://github.com/ofrades/openissue) TODO/TASK management TUI
+- [ideae](https://github.com/ofrades/ideae) TODO/TASK management TUI
 - [ghsync](https://github.com/ofrades/ghsync) Stow alternative to manage files
 
 📁 Archived
