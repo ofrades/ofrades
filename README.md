@@ -1,7 +1,7 @@
 📋 Building
 
-- [tesourofieis](https://tesourofieis.com) Traditional Catholic prayers and liturgical texts
-- [schola](https://schola.tesourofieis.com) AI driven learning
+- 📕 [tesourofieis](https://tesourofieis.com) Traditional Catholic prayers and liturgical texts
+- 🦉 [mohshoo](https://mohshoo.com) AI driven learning
 - [tesourofieis-latex](https://github.com/ofrades/tesourofieis-latex) Unpliblished book 
 - [divinum-officium](https://github.com/ofrades/divinum-officium) Portuguese translations
 - [ideae](https://github.com/ofrades/ideae) TODO/TASK management TUI
