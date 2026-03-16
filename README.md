@@ -6,7 +6,7 @@
 - [divinum-officium](https://github.com/ofrades/divinum-officium) Portuguese translations
 - [ideae](https://github.com/ofrades/ideae) TODO/TASK management TUI
 - [ghsync](https://github.com/ofrades/ghsync) Stow alternative to manage files
-- [oconto](https://github.com/ofrades/oconto) autoresearch, gtp-5.4 verse book
+- [oconto](https://oconto.pages.dev) autoresearch, gtp-5.4 verse book
 
 📁 Archived
 - [offic](https://github.com/ofrades/offic) My first project, GitHub-authenticated viewer and editor for text files in repositories
