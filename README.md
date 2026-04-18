@@ -2,6 +2,7 @@
 
 - 📕 [tesourofieis](https://tesourofieis.com) Traditional Catholic prayers and liturgical texts
 - 🦉 [mohshoo](https://mohshoo.com) AI driven learning
+- 📈 [bursa](https://bursa.mohshoo.com) Stock portfolio
 - [tesourofieis-latex](https://github.com/ofrades/tesourofieis-latex) Unpliblished book 
 - [divinum-officium](https://github.com/ofrades/divinum-officium) Portuguese translations
 - [ideae](https://github.com/ofrades/ideae) TODO/TASK management TUI
