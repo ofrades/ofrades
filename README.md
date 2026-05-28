@@ -3,6 +3,9 @@
 - 📕 [tesourofieis](https://tesourofieis.com) Traditional Catholic prayers and liturgical texts
 - 🦉 [mohshoo](https://mohshoo.com) AI driven learning
 - 📈 [bursa](https://bursa.mohshoo.com) Stock portfolio
+- 💰️ [pi-modus](https://github.com/ofrades/pi-modus) Amp like AI models and subagents switching
+- 🏰 [caestelo](https://castelo.mohshoo.com) Comming soon - Learning with pdf notes, questionnaires, and a pair
+- 🗝️ [lock](https://github.com/ofrades/lock) WIP Chain attack safety layer
 - [tesourofieis-latex](https://github.com/ofrades/tesourofieis-latex) Unpliblished book 
 - [divinum-officium](https://github.com/ofrades/divinum-officium) Portuguese translations
 - [ideae](https://github.com/ofrades/ideae) TODO/TASK management TUI
